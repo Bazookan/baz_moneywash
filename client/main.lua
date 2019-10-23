@@ -1,6 +1,6 @@
 ESX = nil
 
-local policeCount = 0 
+local policeCount = 2 -- Counts of police to be able to wash
 local openedFirst = false
 local openedSecond = false
 local inFirstZone = false
